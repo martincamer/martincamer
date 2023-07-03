@@ -2,8 +2,8 @@
 
 ## Front End Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)]([https://www.linkedin.com/in/ashraf-k-m-149a3494](https://www.linkedin.com/in/martin-camer-115651201/))
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:martincamer011@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-martincamer-blue)]([https://www.linkedin.com/in/ashraf-k-m-149a3494](https://www.linkedin.com/in/martin-camer-115651201/))
+[![](https://img.shields.io/badge/Gmail-martincamer011@gmail.com-red)](mailto:martincamer011@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
