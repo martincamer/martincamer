@@ -30,7 +30,7 @@ const martin = {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/martincamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincamer&theme=synthwave&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincamer&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/martincamer">
