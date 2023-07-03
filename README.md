@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/4k-pgr5BZv4AAAAd/developer-programmer.gif"/>
+<img width="100%" src="https://media.tenor.com/4k-pgr5BZv4AAAAd/developer-programmer.gif"/>
 
 <h1 align="center"> Hi 👋🏻, I'm Martín Camer</br> 
 </h1>
