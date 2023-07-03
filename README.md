@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/83618161?s=400&u=fe100677b063e3b0f730ac621cc195734f73f172&v=4" align="center" height="200" width="200" />
-</div>  
-  
-
 ### <div align="center">I'm Martin, a full-time front-end developer at Erverie Design 👨‍💻 working remotely since 2022 🚀</div>  
   
 
