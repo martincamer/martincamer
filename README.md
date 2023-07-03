@@ -35,7 +35,7 @@ const martin = {
 [![backend](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
 
 #### Design/Visual Tools
-[![design](https://skillicons.dev/icons?i=figma,potoshop,illustrator)](https://skillicons.dev)
+[![design](https://skillicons.dev/icons?i=figma,pothoshop,illustrator)](https://skillicons.dev)
 
 #### Database/State
 [![base-datos](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
