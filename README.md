@@ -2,7 +2,7 @@
 
 I enjoy creating great software and helping other people do it myself.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 
 ```javascript
