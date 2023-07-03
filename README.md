@@ -32,16 +32,13 @@ const martin = {
 [![Front End](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vue,sass,chakraui,)](https://skillicons.dev)
 
 #### Backend
-[![Front End](https://skillicons.dev/icons?i=node,express,nest,mySql,postgresql)](https://skillicons.dev)
+[![backend](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
 
 #### Design/Visual Tools
-
+[![design](https://skillicons.dev/icons?i=figma,potoshop,illustrator)](https://skillicons.dev)
 
 #### Database/State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
-
+[![base-datos](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
 
 
 
