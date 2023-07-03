@@ -1,5 +1,3 @@
-<img style="border-radius:50%" src="https://github.com/martincamer/martincamer/assets/83618161/1f8fa029-cc82-45d6-a4f1-ac2785dd8fb5"/>
-
 ## I'm Martin Camer
 
 ## Front End Developer 👨‍💻
