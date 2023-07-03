@@ -26,8 +26,6 @@ const martin = {
 }
 ```
 
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500">
-
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
