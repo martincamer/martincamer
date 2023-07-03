@@ -1,4 +1,4 @@
-<img width="500" height="500" src="https://github.com/martincamer/martincamer/assets/83618161/bd2a621e-6ead-4c77-878b-11abc113461a"/>
+<img width="300" align="center" align src="https://github.com/martincamer/martincamer/assets/83618161/bd2a621e-6ead-4c77-878b-11abc113461a"/>
 
 <h1 align="center"> Hi 👋🏻, I'm Martín Camer </br> 
 </h1>
