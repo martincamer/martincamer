@@ -28,8 +28,8 @@ const martin = {
 }
 ```
 ## Tech Stack 💻
-#### Languages
-[![Front End](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vue,material-ui,)](https://skillicons.dev)
+#### Front End
+[![Front End](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vue,sass,chakraui,)](https://skillicons.dev)
 
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
