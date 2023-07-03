@@ -2,7 +2,7 @@
 
 ## Front End Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-martincamer-blue)([https://www.linkedin.com/in/ashraf-k-m-149a3494](https://www.linkedin.com/in/martin-camer-115651201/)])
+[![](https://img.shields.io/badge/LinkedIn-martincamer-blue)](https://www.linkedin.com/in/martin-camer-115651201/)
 [![](https://img.shields.io/badge/Gmail-martincamer011@gmail.com-red)](mailto:martincamer011@gmail.com)
 
 
