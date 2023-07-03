@@ -9,7 +9,7 @@ I enjoy creating great software and helping other people do it myself.
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: ["Javascript", "Typescript", "Html", "Css", "React", "Redux", "Next JS", "Express", "MongoDB", "Chakra UI", "Sass"],
    technologies: {
       frontEnd: {
          js: ["React", "Vue", "Next JS"],
