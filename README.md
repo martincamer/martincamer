@@ -1,4 +1,4 @@
-![Foto De Fondo Para Linkedin Empresa o Marca Personal Gradiente Moderno Amarillo y Rosa (4)](https://github.com/martincamer/martincamer/assets/83618161/1f8fa029-cc82-45d6-a4f1-ac2785dd8fb5)
+<img rounded='20' src="https://github.com/martincamer/martincamer/assets/83618161/1f8fa029-cc82-45d6-a4f1-ac2785dd8fb5"/>
 
 ## I'm Martin Camer
 
