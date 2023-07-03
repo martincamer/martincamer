@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi 👋🏻, I'm Martín Camer </br> 
+<h1 align="center"> Hi 👋🏻, I'm Martín Camer</br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
@@ -30,7 +30,7 @@ const martin = {
 }
 ```
 
-## Tech Stack 💻
+## Tech Stack 💻☕️
 #### Front End
 [![Front End](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vue,sass,chakraui,)](https://skillicons.dev)
 
