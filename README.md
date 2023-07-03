@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <h1> A little more about me... <h1/>  
 
 ```javascript
 const martin = {
@@ -28,7 +28,6 @@ const martin = {
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
-<img width="300" align="center" src="https://github.com/martincamer/martincamer/assets/83618161/bd2a621e-6ead-4c77-878b-11abc113461a"/>
 
 ## Tech Stack 💻
 #### Front End
