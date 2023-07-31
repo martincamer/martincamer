@@ -38,7 +38,7 @@ const martin = {
 [![Front End](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,styledcomponents,react,ts,vue,sass,nextjs)](https://skillicons.dev)
 
 #### Backend
-[![backend](https://skillicons.dev/icons?i=nodejs,express,nest,prisma,java,springboot)](https://skillicons.dev)
+[![backend](https://skillicons.dev/icons?i=nodejs,express,nest,prisma,java,spring)](https://skillicons.dev)
 
 #### Design/Visual Tools
 [![design](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://skillicons.dev)
