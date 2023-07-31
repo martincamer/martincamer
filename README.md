@@ -21,7 +21,7 @@ const martin = {
     description: "I am a frontend fan, my age is 22 years old and I want to continue
     growing in the technological world learning much more about javascript!",
     technologies:{
-        backEnd: ["nodejs", "express", "nest.js"],
+        backEnd: ["java", "spring boot", "hibernate"],
         fronEnd: ["react", "next.js", "vue"],
         mobileApp: ["react native","flutter"],
         database: ["mongoDB","mySQL, postgreSQL"],
