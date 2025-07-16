@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/martin-camer-115651201/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.instagram.com/martincamer011/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
-## <h1 align="center">About me... <h1/>  
+## <h1 align="center">About me... <h1/>
 
 ```javascript
 const martin = {
@@ -21,29 +21,33 @@ const martin = {
     description: "I am a frontend fan, my age is 22 years old and I want to continue
     growing in the technological world learning much more about javascript!",
     technologies:{
-        backEnd: ["java", "spring boot", "hibernate"],
-        fronEnd: ["react", "next.js", "vue"],
-        mobileApp: ["react native","flutter"],
+        backEnd: ["nodejs", "express", "nest"],
+        fronEnd: ["react", "next.js", "typescript", "javascript"],
+        mobileApp: ["react native"],
         database: ["mongoDB","mySQL, postgreSQL"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["aws", "docker"],
-        misc: ["firebase", "socket.io", "strapi"]
+        devOps: ["railway", "aws", "docker"],
+        misc: ["strapi"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
 
 ## Tech Stack 💻☕️
+
 #### Front End
+
 [![Front End](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,styledcomponents,react,ts,vue,sass,nextjs)](https://skillicons.dev)
 
 #### Backend
+
 [![backend](https://skillicons.dev/icons?i=nodejs,express,nest,prisma,java,spring)](https://skillicons.dev)
 
 #### Design/Visual Tools
+
 [![design](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://skillicons.dev)
 
 #### Database/State
+
 [![base-datos](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
 
 
